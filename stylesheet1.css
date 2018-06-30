@@ -10,7 +10,7 @@
      height: 50%;
      background: lightgray;
      font-family: sans-serif;
-     text-align:center; 
+     text-align:center;
      color: #617ba5;
  }
 
@@ -22,7 +22,7 @@
     color: white;
     font-size: 27px;
     text-decoration: none;
-   
+
  }
 
  p
@@ -30,13 +30,3 @@
     font-size: 100px;
     padding: 100px;
  }
-
-body, html {
-    height: 100%;
-}
-
-.bg { 
-
-    background-position: center;
-    background-repeat: no-repeat;
-}
