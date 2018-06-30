@@ -30,3 +30,13 @@
     font-size: 100px;
     padding: 100px;
  }
+
+body, html {
+    height: 100%;
+}
+
+.bg { 
+
+    background-position: center;
+    background-repeat: no-repeat;
+}
