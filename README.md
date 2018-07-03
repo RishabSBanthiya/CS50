@@ -1,6 +1,5 @@
 HOLWORTHYHAUL
-A simple website for Holworthy Hall,the freshman dorm at Harvard Yard for the su
-mmer school students.
+A simple website for Holworthy Hall,the freshman dorm at Harvard Yard for the summer school students.
 
 Hollworthy.html
 Initial page of the website with a welcome message for the students
