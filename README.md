@@ -20,3 +20,9 @@ Page showing notices from proctors along with dates
 
 gall.html
 Page with pictures of Holworthy and their members
+
+style.css
+Page with stylings for all of the above
+
+sass.scss
+Page with Sass stylings
